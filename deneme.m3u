@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1, MATCHBOX
-https://p.playturka.space/videos/eD52pxc/playlist_min.m3u8?v=1791544148
+#EXTVLCOPT:sub-url=https://p.playturka.space/videos/eD52pxc/subtitles/tr.vtt
+https://p.playturka.space/videos/eD52pxc/playlist_min.m3u8;https://p.playturka.space/videos/eD52pxc/playlist_aud0.m3u8
 #EXTINF:-1, STUBER: ÇILGIN SÜRÜCÜ
 https://godrive.erikkalinina1994.workers.dev/v/12906?q=1080
 #EXTINF:-1, TÜNEL
