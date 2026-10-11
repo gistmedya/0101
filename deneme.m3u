@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, MATCHBOX
-#EXTVLCOPT:sub-url=https://p.playturka.space/videos/eD52pxc/subtitles/tr.vtt
 https://p.playturka.space/videos/eD52pxc/playlist_min.m3u8;https://p.playturka.space/videos/eD52pxc/playlist_aud0.m3u8
 #EXTINF:-1, STUBER: ÇILGIN SÜRÜCÜ
 https://godrive.erikkalinina1994.workers.dev/v/12906?q=1080
@@ -23,3 +22,4 @@ https://vs4.photoflick.org/v/v0qgr6ge4vss/1080.m3u8;https://vs4.photoflick.org/v
 #EXTINF:-1, GÖLGENİN KENARI
 #EXTVLCOPT:https://ha.vixolity.com/vtt/tt34610311/sub_tr.gif
 https://ha.vixolity.com/mm/tt34610311/main_1080p/index-v1-a2.m3u8
+#EXTVLCOPT:sub-url=https://p.playturka.space/videos/eD52pxc/subtitles/tr.vtt
