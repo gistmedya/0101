@@ -1,19 +1,21 @@
 #EXTM3U
 
 
+EXTINF:-1, KETENPERE: DALAVERE
+https://ha.vixolity.com/vs/tt38974342
+#EXTINF:-1, C TAKIMI 2
+https://ha.vixolity.com/vs/tt32992562
 #EXTINF:-1, GELİN TAKIMI 2
 https://vs1.photoflax.org/v/Gelin.Takimi.2.2025.WEB-DL.1080p.H.264-HDM/1080.m3u8
 #EXTINF:-1, ŞEYTAN ÇOCUK
 https://p.playturka.space/videos/eaqy3D2/playlist_min.m3u8?v=1790275189
+#EXTINF:-1, İKİ DESTAN BİR VATAN
+https://godrive.erikkalinina1994.workers.dev/v/20855?q=1080
+#EXTINF:-1, OFLU HOCA 5
+https://godrive.erikkalinina1994.workers.dev/v/20870?q=1080
 #EXTINF:-1, RECEP İVEDİK 7
 https://vs18.photoflick.org/v/Recep.Ivedik.7.2022.WEB-DL.1080p.x264-HDM/1080.m3u8
-#EXTINF:-1, KETENPERE: DALAVERE
-https://ha.vixolity.com/vs/tt38974342
-#EXTINF:-1, KETENPERE: DALAVERE
-https://ha.vixolity.com/vs/tt38974342
-#EXTINF:-1, C TAKIMI 2
-https://ha.vixolity.com/vs/tt32992562
-#EXTINF:-1,D.I.S.C.O.
+##EXTINF:-1,D.I.S.C.O.
 https://vs6.photour.org/v/D.I.S.C.O.2026.WEB-DL.1080p.H.264-HDM/1080.m3u8
 #EXTINF:-1, ÇATLI
 https://p.playturka.space/videos/eLn003s/playlist_min.m3u8
@@ -31,10 +33,6 @@ https://vs18.photoflax.org/v/Genis.Aile.2.Her.Turlu.2016.WEB-DL.1080p.x264-HDM/1
 https://vs14.pictureflix.org/v/Veda.Partisi.2024.WEB-DL.1080p.H.264-HDM/1080.m3u8
 #EXTINF:-1, SÜNNET ÇOCUĞU
 https://vs19.pictureflix.org/v/Sunnet.Cocugu.2022.WEB-DL.1080p.H.264-HDM/1080.m3u8
-#EXTINF:-1, İKİ DESTAN BİR VATAN
-https://godrive.erikkalinina1994.workers.dev/v/20855?q=1080
-#EXTINF:-1, OFLU HOCA 5
-https://godrive.erikkalinina1994.workers.dev/v/20870?q=1080
 #EXTINF:-1, AY LAV YU
 https://p1.photoflax.org/v/dwfffgwazyd9/720.m3u8
 #EXTINF:-1, ÖZEL DERS
